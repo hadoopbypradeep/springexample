@@ -23,6 +23,9 @@
 		<version>2.5.6</version>
 	</dependency> 
   </dependencies>
+	
+   <!-- Distribution Management --!>
+ 
  <distributionManagement>
     <repository>
       <id>devops-releases</id>
@@ -34,7 +37,5 @@
       <name>devops-snapshots</name>
       <url>http://ec2-18-217-220-234.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/devops-snapshots/</url>
     </snapshotRepository>
-  </distributionManagement>
-	
-	
+  </distributionManagement>	
 </project>
