@@ -35,7 +35,7 @@
     <snapshotRepository>
       <id>devops-snapshots</id>
       <name>devops-snapshots</name>
-      <url>hhttp://localhost:8081/nexus/content/repositories/devops-snapshots/</url>
+      <url>http://localhost:8081/nexus/content/repositories/devops-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>	
 </project>
